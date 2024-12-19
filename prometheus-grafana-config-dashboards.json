@@ -1,0 +1,1 @@
+{"provider.yaml":"apiVersion: 1\nproviders:\n  - name: 'sidecarProvider'\n    orgId: 1\n    folder: ''\n    folderUid: ''\n    type: file\n    disableDeletion: false\n    allowUiUpdates: false\n    updateIntervalSeconds: 30\n    options:\n      foldersFromFilesStructure: false\n      path: /tmp/dashboards"}
